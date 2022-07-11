@@ -1,7 +1,5 @@
 # WebMovies
 
-![WebMovies](https://ibb.co/TPYqMBJ)
-
 ## Tecnologias e práticas utilizadas
 - ASP.NET Core com .NET 6
 - Entity Framework Core
@@ -24,7 +22,6 @@
 
 ```
 git@github.com:maykonmendel/WebMovies.git
-
 ```
 
 2. Acessar a pasta WebMovies/WebMovies e restaurar os pacotes do projeto.
@@ -32,7 +29,6 @@ git@github.com:maykonmendel/WebMovies.git
 ```
 dotnet restore
 dotnet build
-
 ```
 
 3. Criar no SQL Server um novo usuário e senha com direitos de administrador:
